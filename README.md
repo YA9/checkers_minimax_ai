@@ -11,66 +11,7 @@
 </p>
 
 
-
-<!-- Project Website -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#[Project Website](https://sites.google.com/view/lazyy/home)_">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-### Built With
-
-* [Python3]()
-* [PyGame]()
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-* python3
-* pip
-  ```sh
-  python -m pip install -U pip
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install pygame
-   ```sh
-   python3 -m pip install -U pygame --user
-   ```
-3. Run checkers.py
-   ```sh
-    python3 checkers.py
-   ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-_For more information, see our [website](https://sites.google.com/view/lazyy/home)_
-
+###[Project Website](https://sites.google.com/view/lazyy/home)_
 
 <!-- LICENSE -->
 ## License
