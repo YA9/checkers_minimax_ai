@@ -11,7 +11,7 @@
 </p>
 
 
-### [Project Website](https://sites.google.com/view/lazyy/home)_
+### [Project Website](https://sites.google.com/view/lazyy/home)
 
 <!-- LICENSE -->
 ## License
